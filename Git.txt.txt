@@ -2,3 +2,4 @@ System.out.println("Hello Git");
 System.out.println("it's first lesson");
 System.out.println("nice");
 System.out.println("lesson 2"):
+System.out.println("Hello my dear friend")
